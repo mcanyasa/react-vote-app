@@ -1,0 +1,38 @@
+.question {
+    text-align: left;
+    border: 1px solid #222;
+    border-radius: 10px;
+}
+.App-intro .row a {
+    margin-top: 20px;
+    flex: 0 0 26%;
+    max-width: 26%;
+}
+.App-intro .row a:hover {
+    flex: 0 0 26%;
+    max-width: 26%;
+    text-decoration: none;
+}
+
+
+.App-intro .question a {
+    color: #c01f54!important;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.App-intro .question a h4 strong{
+    font-size: 1.2rem;
+}
+
+.App-intro .question a p strong{
+    font-size: 1rem;
+}
+
+.App-intro p {
+    font-size: 0.9em;
+    color: #222222;
+    text-decoration: none;
+}
+
+
