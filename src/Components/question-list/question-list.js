@@ -3,10 +3,10 @@ import { Row,Container } from 'reactstrap';
 import axios from 'axios';
 
 import { API_URL } from '../../constants';
-import Question from "../question/question";
+import Question from "../question/Question";
 import Header from "../header/Header";
 
-import './question-list.css';
+import './Question-List.css';
 
 
 class QuestionList extends Component {

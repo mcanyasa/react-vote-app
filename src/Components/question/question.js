@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Col } from 'reactstrap';
 
 
-import './question.css';
+import './Question.css';
 
 class Question extends Component {
 

@@ -23,6 +23,7 @@
 
 .App-intro .question a h4 strong{
     font-size: 1.2rem;
+    word-break: break-word;
 }
 
 .App-intro .question a p strong{
