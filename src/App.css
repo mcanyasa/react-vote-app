@@ -1,4 +1,10 @@
-.App {
+.App-logo {
+  height: 4vmin;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+ */
