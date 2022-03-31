@@ -5,6 +5,7 @@ import axios from 'axios';
 import { API_URL } from '../../constants';
 import Question from "../question/Question";
 import Header from "../header/Header";
+import QuestionCreate from "../question-create/QuestionCreate";
 
 import './QuestionList.css';
 
@@ -31,6 +32,7 @@ class QuestionList extends Component {
         return (
             <div>
                 <Header title="Questions" />
+                <QuestionCreate />
                 <section className="App-intro my-3">
                 <Container>
                     <Row className='d-flex justify-content-center'>
