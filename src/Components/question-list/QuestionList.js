@@ -6,7 +6,7 @@ import { API_URL } from '../../constants';
 import Question from "../question/Question";
 import Header from "../header/Header";
 
-import './Question-List.css';
+import './QuestionList.css';
 
 
 class QuestionList extends Component {
